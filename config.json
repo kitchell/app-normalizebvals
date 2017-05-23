@@ -1,0 +1,4 @@
+{
+    "bvals": "/N/u/hayashis/Karst/testdata/sca-service-dtiinit/dwi.bvals",
+    "shells": [0, 1000, 2000, 3000]
+}
